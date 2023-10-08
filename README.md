@@ -1,5 +1,5 @@
 <h1 align="center">Benvenuti al GitHub di Bacarotech!</h1>
-<h3 align="center">**Bacaro tech è un'inizitiva che ha lo scopo di avvicinare le persone interessate al mondo del tech, senza spiegoni troppo complessi, e di dare sempre qualcosa di nuovo o svecchiare certi argomenti arruginiti a coloro che bazzicano in questo universo già da tempo**</h3>
+<h3 align="center">Bacaro tech è un'inizitiva che ha lo scopo di avvicinare le persone interessate al mondo del tech, senza spiegoni troppo complessi, e di dare sempre qualcosa di nuovo o svecchiare certi argomenti arruginiti a coloro che bazzicano in questo universo già da tempo</h3>
 
 - 🔭 Sito web in building [Sito web in building](https://github.com/BacaroTech/bacarotech.github.io)
 
