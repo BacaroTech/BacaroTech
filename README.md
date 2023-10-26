@@ -1,7 +1,7 @@
 <h1 align="center">Benvenuti al GitHub di Bacarotech!</h1>
 <h3 align="center">Bacaro tech è un'inizitiva che ha il compito di voler avvicinare coloro che suscitano interesse nel mondo del tech e della programmazione, ma non hanno trovato ancora un luogo dove potersi informare, oltre al fornire informazioni nuove a coloro che bazzicano in questo settore già da tempo.</h3>
 
-<p>Fai un giro sul nostro github per vedere i nostri progetti open source, ai quali potresti contribuire pure tu, e quelle che sono le presentazioni che creiamo per i diversi eventi, per ogni domanda o dubbio puoi scriveri una mail o contattarci su instagram!</p>
+<p>Fai un giro sul nostro github per vedere i nostri progetti open source, ai quali potresti contribuire pure tu, e quelle che sono le presentazioni che creiamo per i diversi eventi. Per ogni domanda o dubbio puoi scriveri una mail o contattarci su instagram!</p>
 
 - 🔭 Sito web in building [Sito web in building](https://github.com/BacaroTech/bacarotech.github.io)
 
