@@ -3,9 +3,9 @@
 
 <p>Fai un giro sul nostro github per vedere i nostri progetti open source, ai quali potresti contribuire pure tu, e quelle che sono le presentazioni che creiamo per i diversi eventi. Per ogni domanda o dubbio puoi scriveri una mail o contattarci su instagram!🍷</p>
 
-- 🔭 Sito web in building[Sito web in building](https://github.com/BacaroTech/bacarotech.github.io)
+- 🔭 Sito web [Sito web](https://bacarotech.it/)
 
-- 👯 Presentazioni eventi[Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
+- 👯 Presentazioni eventi [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
 
 - 📝 Se volete sostenerci seguiteci su instagram🍷[https://www.instagram.com/bacarotech23/](https://www.instagram.com/bacarotech23/)
 
