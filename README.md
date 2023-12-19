@@ -1,14 +1,11 @@
 <h1 align="center">🍷Benvenuti nel GitHub di Bacarotech🍷</h1>
-<h3 align="center">Bacaro tech è un'inizitiva che ha il compito di voler avvicinare le persone che hanno un interesse verso il mondo del tech e della programmazione, ma non hanno trovato ancora un luogo dove potersi informare, oltre al fornire informazioni nuove a coloro che bazzicano in questo settore già da tempo.🍷</h3>
+<h3 align="center">BacaroTech è una community per gli sviluppatori dove si parla di programmazione a 360° concetti di programmazione, algoritmi e cariera tech. Seguici per partecipare ai nostri eventi e poter apprendere concetti difficili spiegati facilemente!🍷</h3>
 
 <p>Fai un giro sul nostro github per vedere i nostri progetti open source, ai quali potresti contribuire pure tu, e quelle che sono le presentazioni che creiamo per i diversi eventi. Per ogni domanda o dubbio puoi scriveri una mail o contattarci su instagram!🍷</p>
 
 - 🔭 Sito web [Sito web](https://bacarotech.it/)
-
-- 👯 Presentazioni eventi [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
-
+- 🍾 Presentazioni eventi [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
 - 📝 Se volete sostenerci seguiteci su instagram🍷[https://www.instagram.com/bacarotech23/](https://www.instagram.com/bacarotech23/)
-
 - 📫 Email: **bacarotech@gmail.com**
 
 <h3 align="left">Dove puoi trovarci🍷</h3>
