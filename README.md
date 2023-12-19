@@ -5,7 +5,8 @@
 
 - 🔭 Sito web [Sito web](https://bacarotech.it/)
 - 🍾 Presentazioni eventi [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
-- 📝 Se volete sostenerci seguiteci su instagram🍷[https://www.instagram.com/bacarotech23/](https://www.instagram.com/bacarotech23/)
+- 📷 Instagram🍷[https://www.instagram.com/bacarotech23/](https://www.instagram.com/bacarotech23/)
+- 🍱 PokeBowlEvaluation[https://www.instagram.com/bacarotech23/](https://github.com/BacaroTech/PokeBowlEvaluation)
 - 📫 Email: **bacarotech@gmail.com**
 
 <h3 align="left">Dove puoi trovarci🍷</h3>
