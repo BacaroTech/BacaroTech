@@ -1,5 +1,6 @@
 <h1 align="center">🍷Benvenuti nel GitHub di BacaroTech🍷</h1>
 <h3 align="center">BacaroTech è una community per gli sviluppatori dove si parla di programmazione a 360° concetti di programmazione, algoritmi e cariera tech. 
+  
   Seguici per partecipare ai nostri eventi e poter apprendere concetti difficili spiegati facilemente!🍷</h3>
 
 <p>Fai un giro sul nostro github per vedere i nostri progetti open source, ai quali potresti contribuire pure tu, e quelle che sono le presentazioni che creiamo per i diversi eventi. Per ogni domanda o dubbio puoi scriveri una mail(bacarotech@gmail.com) o contattarci su instagram(bacarotech23)!🍷</p>
