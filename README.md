@@ -15,6 +15,7 @@
 - 🍾 [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
 - 🥳 [Repository utili](https://github.com/BacaroTech/RepositoryUtili)
 - 🧑‍🏭 [WorkShop Keycloack](https://github.com/BacaroTech/keycloak-workshop)
+- 🐶 [Pokedex FE](https://github.com/BacaroTech/pokedex-frontend)
 
 ### Social e Contatti
 - 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
