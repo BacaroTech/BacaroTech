@@ -2,11 +2,6 @@
 ## La tua community di sviluppatori dove si parla di programmazione a 360°: strutture dati, algoritmi, cariera tech e molto altro!
 <p>Esplora il nostro GitHub per scoprire i nostri progetti open source, ai quali potresti contribuire anche tu, e le presentazioni che creiamo per i diversi eventi. Per qualsiasi domanda o dubbio, puoi scriverci una mail a bacarotech@gmail.com oppure puoi contattarci su Instagram oppure su TikTok</p>
 
-### Alcuni progetti
-- 🍱 [PokeBowl Evaluation](https://github.com/BacaroTech/PokeBowlEvaluation)
-- 💸 [Money Dashboard](https://github.com/BacaroTech/MoneyDashboard)
-- 🧜 [Progetto Laguna](https://github.com/BacaroTech/ProgettoLaguna)
-
 ### Competizioni
 - 🤌 [Pocket Italy](https://github.com/BacaroTech/PocketItaly) 
 - 🖥️ [Pocket Italy Server](https://github.com/BacaroTech/PocketItaly-Server)
@@ -22,7 +17,6 @@
 - 📷 [Instagram](https://www.instagram.com/bacarotech23/)
 - 🎵 [TikTok](https://www.tiktok.com/@bacarotech)
 - 🎥 [Youtube](https://www.youtube.com/@Bacarotech)
-- 🔭 [Blog](https://bacarotech.it/)
 - 📫 Email: **bacarotech@gmail.com**
 
 ## Altro su di noi e sul team🍷
