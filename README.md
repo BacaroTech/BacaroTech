@@ -27,7 +27,7 @@
   <a href="www.instagram.com/bacarotech23/" target="blank" alt="Instagram Bacarotech">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"     alt="https://www.instagram.com/bacarotech23/" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/giorgio-basile-382430170" target="blank" alt="Giorgio Basile">
+  <a href="https://www.linkedin.com/in/giorgiobasile00/" target="blank" alt="Giorgio Basile">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgio-basile-382430170" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/michele-scarpa-90-arco" target="blank" alt="Michele Scarpa">
