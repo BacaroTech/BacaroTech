@@ -2,15 +2,10 @@
 ## La tua community di sviluppatori dove si parla di programmazione a 360°: strutture dati, algoritmi, cariera tech e molto altro!
 <p>Esplora il nostro GitHub per scoprire i nostri progetti open source, ai quali potresti contribuire anche tu, e le presentazioni che creiamo per i diversi eventi. Per qualsiasi domanda o dubbio, puoi scriverci una mail a bacarotech@gmail.com oppure puoi contattarci su Instagram oppure su TikTok</p>
 
-### Competizioni
-- 🤌 [Pocket Italy](https://github.com/BacaroTech/PocketItaly) 
-- 🖥️ [Pocket Italy Server](https://github.com/BacaroTech/PocketItaly-Server)
-
 ### Rirorse utili
 - 🍾 [Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-Eventi)
 - 🥳 [Repository utili](https://github.com/BacaroTech/RepositoryUtili)
-- 🧑‍🏭 [WorkShop Keycloack](https://github.com/jollymick90/keycloak-workshop)
-- 🐶 [Pokedex FE](https://github.com/BacaroTech/pokedex-frontend)
+- 🧑‍🏭 [Progetti BacaroTech](https://github.com/BacaroTech/Progetti-bacaro-tech)
 
 ### Social e Contatti
 - 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
