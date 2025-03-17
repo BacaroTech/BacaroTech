@@ -10,15 +10,15 @@ Esplora il nostro GitHub per scoprire i progetti open source a cui puoi contribu
 
 ---
 
-## 🔗 Utils  
+## 🪚 Utils  
 
-### [🔗 Link Tree](https://github.com/BacaroTech/bacarotech.github.io)  
+### [🌳 Link Tree](https://github.com/BacaroTech/bacarotech.github.io)  
 Abbiamo creato una mini landing page per raccogliere tutti i nostri social, sviluppata internamente e ospitata su GitHub. Il progetto è realizzato con **HTML, CSS, JavaScript e Tailwind**.  
 
-### [🔗 Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-eventi)  
+### [🗨️ Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-eventi)  
 Qui troverai tutte le slide, i documenti e i materiali utilizzati durante gli eventi che organizziamo.  
 
-### [🔗 Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)  
+### [💪 Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)  
 Raccogliamo soluzioni ai problemi di **LeetCode** affrontati nelle serate di "LeetcoData", un’iniziativa di BacaroTech che mira a rendere l’**algoritmica** più accessibile a tutti.  
 
 ---
